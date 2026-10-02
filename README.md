@@ -38,7 +38,6 @@
 
 ## 📫 Contact
 
-- Email: akincorp7.com<!--
-**DanielAkinwande/DanielAkinwande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Email: akincorp7.com
 
 
